@@ -1,5 +1,5 @@
 # wayshot
-Okay, let's break down the idea of introducing a DMA-BUF backend to Wayshot for high-performance screen capture, focusing on the benefits, implementation considerations, and how it would integrate with OBS and a custom desktop portal.
+DMA-BUF backend to Wayshot for high-performance screen capture, focusing on the benefits, implementation considerations, and how it would integrate with OBS and a custom desktop portal.
 
 **Core Problem:**
 
